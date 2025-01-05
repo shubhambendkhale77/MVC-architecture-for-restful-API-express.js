@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Project Engg",
+    "description": "Plans and closes projects.",
+    "available": "false"
+  },
+  {
+    "id": 3,
+    "title": "Cybersecurity Analyst",
+    "description": "Protects computer systems.",
+    "available": "true"
+  },
+  {
+    "id": 4,
+    "title": "Software Developer",
+    "description": "Develops and maintains software applications.",
+    "available": "true"
+  },
+  {
+    "id": 5,
+    "title": "Data Scientist",
+    "description": "Analyzes and interprets complex data.",
+    "available": "true"
+  },
+  {
+    "id": 6,
+    "title": "Network Administrator",
+    "description": "Manages and maintains computer networks.",
+    "available": "false"
+  },
+  {
+    "id": 7,
+    "title": "Business Analyst",
+    "description": "Evaluates business processes and requirements.",
+    "available": "true"
+  },
+  {
+    "id": 8,
+    "title": "System Architect",
+    "description": "Designs and oversees IT system architecture.",
+    "available": "false"
+  },
+  {
+    "id": 9,
+    "title": "Database Administrator",
+    "description": "Maintains and optimizes databases.",
+    "available": "true"
+  },
+  {
+    "id": 10,
+    "title": "QA Engineer",
+    "description": "Tests and ensures software quality.",
+    "available": "true"
+  }
+]
